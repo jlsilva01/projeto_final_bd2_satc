@@ -8,6 +8,7 @@ Fulano de Tal - conta github<br>
 Beltrano de Tal - conta github<br>
 
 ### Modelo Físico:
+Utilizado https://dbdiagram.io/<br>
 <code>Imagem</code>
   
 ### Dicionário de Dados:
