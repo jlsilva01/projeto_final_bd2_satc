@@ -14,16 +14,16 @@ Beltrano de Tal - conta github<br>
 <code>Excel ou tabela do Github (markdown)</code>
 
 ### Scripts DDL Criação do Database:
-Banco de dados utilizado SQL Server versão 2022 - Azure.
+Banco de dados utilizado SQL Server versão 2022 - Azure.<br>
 <code>1 arquivo SQL por objeto</code>
 
 ### Scripts Popula tabelas:
-Banco de dados utilizado SQL Server versão 2022 - Azure.
+Banco de dados utilizado SQL Server versão 2022 - Azure.<br>
 <code>1 arquivo SQL por objeto</code>
 
 ### Objetos de BD (stored procedure, triggers e functions):
 <code>1 arquivo SQL por objeto</code>
   
 ### Código do sistema:
-Linguagem de Programação C# .NET.
+Linguagem de Programação C# .NET.<br>
 <code>código fonte da aplicação</code>
