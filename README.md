@@ -3,12 +3,12 @@
 #### Grupo A
 
 #### Integrantes:
-Jorge Luiz da Silva
-Fulano de Tal
-Beltrano de Tal
+Jorge Luiz da Silva<br>
+Fulano de Tal<br>
+Beltrano de Tal<br>
 
 #### Modelo Físico:
-<Link> Imagem
+<code><Link> Imagem</code>
   
 #### Dicionário de Dados:
 <Link> Excel ou tabela do Github (markdown)
