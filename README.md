@@ -13,7 +13,7 @@ Arquivo fonte: <code>link pro arquivo</code><br>
 <code>Imagem</code>
   
 ### Dicionário de Dados:
-<code>Excel ou tabela do Github (markdown)</code>
+- [Template1.xlsx](https://learn.microsoft.com/pt-br/cli/azure/)
 
 ### Scripts DDL Criação do Database:
 Banco de dados utilizado SQL Server versão 2022 - Azure.<br>
