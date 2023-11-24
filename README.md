@@ -1,9 +1,9 @@
 ## Projeto Sistema de <<Inserir o nome do sistema aqui>>
 
-### Grupo A
+### Grupo A <<Alterar a letra referente ao grupo>>
 
 ### Integrantes:
-Jorge Luiz da Silva - @jlsilva01
+Jorge Luiz da Silva - @jlsilva01<br>
 Fulano de Tal - conta github<br>
 Beltrano de Tal - conta github<br>
 
@@ -13,7 +13,7 @@ Arquivo fonte: <code>link pro arquivo</code><br>
 <code>Imagem</code>
   
 ### Dicionário de Dados:
-- [Template1.xlsx](https://learn.microsoft.com/pt-br/cli/azure/)
+- <code>dicionar.xlsx (https://github.com/jlsilva01/projeto_final_bd2_satc_2023/blob/main/dicionario_dados/template1.xlsx)</code>
 
 ### Scripts DDL Criação do Database:
 Banco de dados utilizado SQL Server versão 2022 - Azure.<br>
