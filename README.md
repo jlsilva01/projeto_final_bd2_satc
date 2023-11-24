@@ -1,6 +1,6 @@
-## Projeto Sistema de <Inserir o nome do sistema aqui>
+## Projeto Sistema de (...Inserir o nome do sistema aqui)
 
-### Grupo A <Alterar a letra referente ao grupo>
+### Grupo A (...Alterar a letra referente ao grupo)
 
 ### Integrantes:
 Jorge Luiz da Silva - @jlsilva01<br>
@@ -17,7 +17,7 @@ Arquivo fonte: <code>link pro arquivo</code><br>
 
 ### Scripts DDL Criação do Database:
 Banco de dados utilizado SQL Server versão 2022 - Azure.<br>
-<code>1 arquivo SQL por objeto</code>
+<code>[scripts/](dicionario_dados/template1.xlsx)</code>
 
 ### Scripts Popula tabelas:
 Banco de dados utilizado SQL Server versão 2022 - Azure.<br>
