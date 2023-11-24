@@ -17,7 +17,7 @@ Arquivo fonte: <code>link pro arquivo</code><br>
 
 ### Scripts DDL Criação do Database:
 Banco de dados utilizado SQL Server versão 2022 - Azure.<br>
-<code>[scripts/](dicionario_dados/template1.xlsx)</code>
+<code>[scripts/](scripts/)</code>
 
 ### Scripts Popula tabelas:
 Banco de dados utilizado SQL Server versão 2022 - Azure.<br>
