@@ -13,7 +13,7 @@ Arquivo fonte: <code>link pro arquivo</code><br>
 <code>Imagem</code>
   
 ### Dicionário de Dados:
-<code>[dicionar.xlsx](dicionario_dados/template1.xlsx)</code>
+<code>[dicionario_dados.xlsx](dicionario_dados/template1.xlsx)</code>
 
 ### Scripts DDL Criação do Database:
 Banco de dados utilizado SQL Server versão 2022 - Azure.<br>
