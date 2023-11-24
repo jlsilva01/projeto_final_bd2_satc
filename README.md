@@ -1,4 +1,4 @@
-## Projeto Sistema de Contabilidade
+## Projeto Sistema de <<Inserir o nome do sistema aqui>>
 
 ### Grupo A
 
