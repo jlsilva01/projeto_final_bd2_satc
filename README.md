@@ -1,9 +1,9 @@
-## Projeto Sistema de <...>
+## Projeto Sistema de Contabilidade
 
 ### Grupo A
 
 ### Integrantes:
-Jorge Luiz da Silva - conta github<br>
+Jorge Luiz da Silva - @jlsilva01
 Fulano de Tal - conta github<br>
 Beltrano de Tal - conta github<br>
 
