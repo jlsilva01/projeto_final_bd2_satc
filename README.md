@@ -1,6 +1,6 @@
-## Projeto Sistema de <<Inserir o nome do sistema aqui>>
+## Projeto Sistema de <Inserir o nome do sistema aqui>
 
-### Grupo A <<Alterar a letra referente ao grupo>>
+### Grupo A <Alterar a letra referente ao grupo>
 
 ### Integrantes:
 Jorge Luiz da Silva - @jlsilva01<br>
