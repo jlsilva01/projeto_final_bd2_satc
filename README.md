@@ -1,4 +1,4 @@
-## Projeto Sistema de Projetos Especiais - GRUPO A
+## Projeto Sistema de Atividades Especiais - GRUPO A
 
 ### Integrantes
 Jorge Luiz da Silva - @jlsilva01<br>
