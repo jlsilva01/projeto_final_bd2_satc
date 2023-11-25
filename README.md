@@ -19,7 +19,7 @@ Arquivo fonte: <code>[Modelo ER Fisico](https://dbdiagram.io/d/6561325e3be149578
 <code>[dicionario_dados.xlsx](dicionario_dados/template1.xlsx)</code>
 
 ### Scripts SQL
-Banco de dados utilizado Azure SQL.<br>
+Banco de dados utilizado [Azure SQL](https://azure.microsoft.com/pt-br/products/azure-sql/database) <br>
 Este é o procedimento para criação do banco de dados Azure SQL [Criando SQL Azure serverless no Azure gratuito - Sem cartão de crédito](https://github.com/jlsilva01/sql-azure-satc).
 
 + DDL [ddl.sql](scripts_sql/ddl.sql)
