@@ -4,8 +4,9 @@
 
 ### Integrantes
 Jorge Luiz da Silva - @jlsilva01<br>
-Fulano de Tal - conta github<br>
-Beltrano de Tal - conta github<br>
+Integrante 2 - conta github<br>
+Integrante 3 - conta github<br>
+...
 
 ### Modelo Físico
 Ferramenta de modelagem de dados utilizada https://dbdiagram.io/<br>
