@@ -13,10 +13,9 @@ Ferramenta de modelagem de dados utilizada https://dbdiagram.io/<br>
 Arquivo fonte: <code>[Modelo ER Fisico](https://dbdiagram.io/d/6561325e3be1495787b1c71a)</code><br>
 
 ![image](https://github.com/jlsilva01/projeto_final_bd2_satc_2023/assets/484662/1fefa9fd-868c-4209-8cc5-d32cd73fa46d)
-
   
 ### Dicionário de Dados
-<code>[dicionario_dados.xlsx](dicionario_dados/template1.xlsx)</code>
+Lista de todas as tabelas e índices documentados - [dicionario_dados.xlsx](dicionario_dados/template1.xlsx).
 
 ### Scripts SQL
 Banco de dados utilizado [Azure SQL](https://azure.microsoft.com/pt-br/products/azure-sql/database) <br>
