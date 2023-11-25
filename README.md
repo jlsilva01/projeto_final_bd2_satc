@@ -34,4 +34,4 @@ Este é o procedimento para criação do banco de dados Azure SQL [Criando SQL A
 - Projeto Windows Forms
 - Biblioteca Entity Framework para SQL Server (nativo)
 
-<code>[Codigo Fonte](fonte/)</code>
+[Codigo Fonte](fonte/)
