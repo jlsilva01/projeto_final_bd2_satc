@@ -1,0 +1,14 @@
+DROP TRIGGER IF EXISTS td_apolice
+go
+
+CREATE TRIGGER td_apolice on apolice AFTER DELETE as
+BEGIN
+	IF ROWCOUNT_BIG() = 0
+		RETURN
+
+	INSERT INTO apolice_log
+	SELECT *, GETDATE(), SUSER_NAME()
+	FROM deleted
+
+END
+GO
