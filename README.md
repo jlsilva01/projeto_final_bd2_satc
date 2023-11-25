@@ -13,7 +13,7 @@ Arquivo fonte: [Modelo Fisico](https://dbdiagram.io/d/6561325e3be1495787b1c71a)<
 ![image](https://github.com/jlsilva01/projeto_final_bd2_satc_2023/assets/484662/1fefa9fd-868c-4209-8cc5-d32cd73fa46d)
   
 ### Dicionário de Dados
-Lista de todas as tabelas e índices documentados - [dicionario_dados.xlsx](dicionario_dados/template1.xlsx).
+A lista de todas as tabelas e índices foram documentadas na planilha [template1.xlsx](dicionario_dados/template1.xlsx).
 
 ### Scripts SQL
 Para este projeto foi utilizado o banco de dados [Azure SQL](https://azure.microsoft.com/pt-br/products/azure-sql/database) <br>
@@ -34,3 +34,6 @@ Abaixo, segue os scripts SQL separados por tipo:
 - Biblioteca Entity Framework para SQL Server (nativo)
 
 [Codigo Fonte](fonte/)
+
+### Relatório Final
+O relatório final está disponível no arquivo [template1.docx](relatorio/template1.docx).
