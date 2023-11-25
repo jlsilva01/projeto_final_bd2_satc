@@ -22,18 +22,12 @@ Arquivo fonte: <code>[Modelo ER Fisico](https://dbdiagram.io/d/6561325e3be149578
 Banco de dados utilizado Azure SQL.<br>
 Este é o procedimento para criação do banco de dados Azure SQL [Criando SQL Azure serverless no Azure gratuito - Sem cartão de crédito](https://github.com/jlsilva01/sql-azure-satc).
 
-+ DDL
-  +  <code>[ddl.sql](scripts_sql/ddl.sql)</code>
-+ Índices
-  +  <code>[indices.sql](scripts_sql/indices.sql)</code>
-+ DML
-  +  <code>[dml.sql](scripts_sql/dml.sql)</code>
-+ Triggers
-  +  <code>[triggers.sql](scripts_sql/triggers.sql)</code>
-+ Stored Procedures
-  +  <code>[stored_procedures.sql](scripts_sql/stored_procedures.sql)</code>
-+ Functions
-  +  <code>[functions.sql](scripts_sql/functions.sql)</code>
++ DDL [ddl.sql](scripts_sql/ddl.sql)</code>
++ Índices [indices.sql](scripts_sql/indices.sql)</code>
++ DML [dml.sql](scripts_sql/dml.sql)</code>
++ Triggers [triggers.sql](scripts_sql/triggers.sql)</code>
++ Stored Procedures [stored_procedures.sql](scripts_sql/stored_procedures.sql)</code>
++ Functions [functions.sql](scripts_sql/functions.sql)</code>
 
 ### Código Fonte do CRUD
 - Linguagem de Programação C# .NET.<br>
