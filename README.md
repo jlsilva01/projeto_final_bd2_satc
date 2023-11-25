@@ -1,6 +1,4 @@
-## Projeto Sistema de (...Inserir o nome do sistema aqui)
-
-### Grupo A (...Alterar a letra referente ao grupo)
+## Projeto Sistema de Projetos Especiais - GRUPO A
 
 ### Integrantes
 Jorge Luiz da Silva - @jlsilva01<br>
